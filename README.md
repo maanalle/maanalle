@@ -13,14 +13,15 @@ I am a dedicated first-year student at ESI Morocco with a strong passion for ML,
 
 ## Skills
 
-- **Programming Languages**: C, Python, JavaScript
+- **Programming Languages**: C, Python, JavaScript,Java,
 - **Markup and Styling**: HTML, CSS
+- **Frameworks and Technologies**: Java Spring Boot, SQL, MySQL
 - **Other**: Technical writing, poetry
 
 ## Education
 
 - **ESI Morocco**
-  - First-year student
+  - Second-year student
 
 ## Connect with Me
 
