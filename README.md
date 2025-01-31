@@ -23,7 +23,7 @@ I am a dedicated first-year student at ESI Morocco with a strong passion for ML,
 
 ## Connect with Me
 
-- **LinkedIn**: https://www.linkedin.com/in/manal-mt-7255ab296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **LinkedIn**: [https://www.linkedin.com/in/manal-mt-7255ab296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/manal-maati-7255ab296/)
 - **Email**:manalmaati8@gmail.com
 
 ## Support
