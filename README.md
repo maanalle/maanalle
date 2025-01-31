@@ -6,14 +6,12 @@
 
 I am a dedicated first-year student at ESI Morocco with a strong passion for ML, AI, and software development. Currently, I am expanding my knowledge through various projects and internships.
 
-- 🌱 Currently learning ReactJS
-- 📚 Actively working on an instagram clone.
 - ✍️ Aspiring poet with a love for creative writing.
 
 
 ## Skills
 
-- **Programming Languages**: C, Python, JavaScript,Java,
+- **Programming Languages**: C, Python, JavaScript,Java,R
 - **Markup and Styling**: HTML, CSS
 - **Frameworks and Technologies**: Java Spring Boot, SQL, MySQL
 - **Other**: Technical writing, poetry
