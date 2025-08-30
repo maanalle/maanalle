@@ -4,17 +4,23 @@
 
 ## About Me
 
-I am a dedicated first-year student at ESI Morocco with a strong passion for ML, AI, and software development. Currently, I am expanding my knowledge through various projects and internships.
+I am a dedicated third-year student at ESI Morocco with a strong passion for ML, AI, and software development. Currently, I am expanding my knowledge through various projects and internships.
 
 - ✍️ Aspiring poet with a love for creative writing.
 
 
 ## Skills
 
-- **Programming Languages**: C, Python, JavaScript,Java,R
-- **Markup and Styling**: HTML, CSS
-- **Frameworks and Technologies**: Java Spring Boot, SQL, MySQL
-- **Other**: Technical writing, poetry
+- **Software Engineering**: Web Development, Machine Learning, AI Solutions
+- **Programming Languages**: C, Python, Java, PHP, SQL, PL/SQL, XML, JavaScript, R, Scala, Prolog
+- **Data Science & AI**: Machine Learning, Deep Learning, Data Analysis, Data Visualization, EDA, Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Seaborn
+- **AI & ML**: Object Detection, Real-time Processing, Predictive Models
+- **Technologies & Frameworks**: Spring Boot, React
+- **Web Development**: HTML, CSS
+- **Database Systems**: MySQL, Microsoft Access, PostgreSQL
+- **Tools & Technologies**: Git, VS Code, Database Systems
+- **Design & UI/UX**: Figma
+
 
 ## Education
 
